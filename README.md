@@ -2,7 +2,8 @@
 
 Lucas do Prado Szczepaniak
 <br><br>
-Os códigos foram executados todos no windows 10 sendo compilados e executados no prompt
+Os códigos foram executados todos no windows 10 sendo compilados e executados no prompt<br>
+Para todos os códigos é necessário alterar no arquivo main o valor de N para alterar o tamanho da matriz
 
 # Como usar:
 ## C
